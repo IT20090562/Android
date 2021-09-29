@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="et_message">Enter a message</string>
+    <string name="btn_send">SEND</string>
 </resources>
